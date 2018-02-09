@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//app/Http/Controllers/NTAController.php=UTF-8
+encoding//database/seeds/accessWaySeeder.php=UTF-8
+encoding//database/seeds/adminDivisionSeeder.php=UTF-8
+encoding//database/seeds/climateSeeder.php=UTF-8
+encoding//database/seeds/otherTablesSeeder.php=UTF-8
+encoding//resources/views/common/errors.blade.php=UTF-8
+encoding//resources/views/layouts/master.blade.php=UTF-8
+encoding//resources/views/nta/form.blade.php=UTF-8
+encoding//resources/views/nta/index.blade.php=UTF-8
+encoding//resources/views/nta/main.blade.php=UTF-8
+encoding//resources/views/nta/results.blade.php=UTF-8
+encoding//resources/views/test/form.blade.php=UTF-8

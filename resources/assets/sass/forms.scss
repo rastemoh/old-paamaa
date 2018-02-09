@@ -1,0 +1,42 @@
+.form-header{
+	margin-top:4rem;
+	height: 4rem;
+	background-color:black;
+	color:white;
+}
+.form-container{
+	background-color:white;
+	padding: 1em;
+	.form-item{
+		margin-bottom: 1.5em;
+		label{
+			.mandatory{
+				color:red;
+			}		
+		}
+		.form-text-input{
+			width:100%;
+			background-color:#ebebeb;
+			border:none;
+			height:2.2em;
+			padding:1em 0.4em;
+		}
+		.ltr-input{
+			direction:ltr;
+			text-align: left;
+		}
+		.textarea-input{
+			width:100%;
+			background-color:#ebebeb;
+			border:none;
+			
+		}
+		
+		.select-input{
+			width: 100%;
+		}
+		#mapContainer{
+			height:30rem;
+		}
+	}
+}
